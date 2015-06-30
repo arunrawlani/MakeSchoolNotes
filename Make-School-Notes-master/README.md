@@ -1,4 +1,5 @@
-This is the final project of the Make School Notes Swift Tutorial. This brief documentation gives an overview of the source code involved in building this project.
+Author: Arun Rawlani
+This is the final project of the Make School Notes. This brief documentation gives an overview of the source code involved in building this project.
 
 #Classes and Frameworks provided as part of template project
 
